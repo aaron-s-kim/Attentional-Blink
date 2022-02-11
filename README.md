@@ -1,9 +1,7 @@
 
 
 # Attentional Blink
-Attentional Blink is a psychometric experiment built with Python 2.7. The attentional blink is
-- a neuropsychological phenomenon demonstrating the temporal limitations of cognitive processing of visual stimuli
-- when presented with two visual stimuli in quick succession, the accuracy in identification for the second stimulus is significantly reduced when presented within 200-500ms of the first
+Attentional Blink is a psychometric experiment built with Python 2.7. The attentional blink is a neuropsychological phenomenon demonstrating the temporal limitations of cognitive processing of visual stimuli. When presented with two visual stimuli in quick succession, the accuracy in identification for the second stimulus is significantly reduced when presented within 200-500ms of the first.
 
 ## Rapid Serial Visual Presentation Experiment
 Upon identifying a first stimulus (T1) in a rapid visual stream, the ability to detect a second
